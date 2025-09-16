@@ -49,16 +49,11 @@ Let's see how nouns work in sentences.
 
 Notice how the article (**der**, **die**, **das**) changes depending on the noun's gender.
 
-### Practice
+!!! example "Fill in the blanks with the correct German article."
+    1. \_\_\_ Hund spielt im Garten.
+    2. \_\_\_ Katze schläft auf dem Sofa.
+    3. Ich habe \_\_\_ Buch gelesen.
 
-Fill in the blanks with the correct German article.
-
-1. \_\_\_ Hund spielt im Garten.
-2. \_\_\_ Katze schläft auf dem Sofa.
-3. Ich habe \_\_\_ Buch gelesen.
-
-!!! details "Show Answers"
-
-1. Der
-2. Die
-3. Das
+    Answers:    1. Der
+                2. Die
+                3. Das
