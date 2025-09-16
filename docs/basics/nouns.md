@@ -57,14 +57,8 @@ Fill in the blanks with the correct German article.
 2. \_\_\_ Katze schläft auf dem Sofa.
 3. Ich habe \_\_\_ Buch gelesen.
 
-\<details markdown="1"\>
-\<summary\>Answers\</summary\>
+!!! details "Show Answers"
 
 1. Der
 2. Die
 3. Das
-    \</details\>
-
----
-
-**Next up:** Articles (definite and indefinite), which go hand in hand with nouns in German sentences.
