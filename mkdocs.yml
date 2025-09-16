@@ -26,3 +26,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+plugins:
+  - privacy
+  - search
+  - git-revision-date
+  - mkdocs_macros
+  - awesome-pages
