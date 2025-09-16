@@ -30,6 +30,3 @@ markdown_extensions:
 plugins:
   - privacy
   - search
-  - git-revision-date
-  - mkdocs_macros
-  - awesome-pages
