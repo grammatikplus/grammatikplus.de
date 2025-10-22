@@ -1,39 +1,25 @@
-# Welcome to Grammatik Plus
+---
+layout: home
 
-Welcome to **GrammatikPlus**, your step-by-step guide to mastering German grammar.
-This course is designed for learners who want clear explanations in **English**, combined with practical **German examples**.
+hero:
+  name: Grammatik Plus
+  text: Master German Grammar in English
+  tagline: A structured set of lessons covering everything from articles to word order.
+  actions:
+    - theme: brand
+      text: Start Overview
+      link: /markdown-examples
+    - theme: alt
+      text: Browse Lessons
+      link: /markdown-examples#lesson-map
 
+features:
+  - title: Guided Progression
+    details: Follow a curated path that builds from noun gender to complex sentence structures.
+  - title: Real Explanations
+    details: Understand the why behind each rule with clear English explanations and tables.
+  - title: Practice Prompts
+    details: Reinforce learning with quick tasks you can complete after every lesson.
 ---
 
-## 📚 What to Expect
-
-- **Simple Explanations**: Every concept is explained in English.
-- **German Examples**: Each lesson includes real German sentences with translations.
-- **Structured Path**: We start from the basics (nouns, articles, verbs) and move toward more complex grammar (cases, tenses, sentence structure).
-- **Practice**: At the end of each unit, you will find exercises to test your knowledge.
-
----
-
-## 🗣️ Why German Grammar?
-
-German grammar may seem difficult at first because of features like:
-
-- **Three genders**: _der, die, das_
-- **Four cases**: nominative, accusative, dative, genitive
-- **Verb placement rules**: the verb is usually in the second position
-
-But don’t worry! By learning step by step, you will see the patterns and start to understand how sentences are built.
-
----
-
-## ✨ Example Sentences
-
-Here are two simple German sentences:
-
-```text
-Ich bin Student.
-(I am a student.)
-```
-
-Das ist ein Buch.
-(This is a book.)
+Grammatik Plus brings German grammar into focus for English-speaking learners. Jump in via the lesson map or explore individual topics using the sidebar.
