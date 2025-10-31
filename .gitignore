@@ -1,20 +1,27 @@
-/.vitepress/dist
-/.vitepress/cache
-/coverage
-/src/client/shared.ts
-/src/node/shared.ts
-*.log
-*.tgz
-.DS_Store
-.idea
-.temp
-.vite_opt_cache
-.vscode
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
 dist
-cache
-temp
-examples-temp
+
+# Node dependencies
 node_modules
-pnpm-global
-TODOs.md
-*.timestamp-*.mjs
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# VSC
+.history
