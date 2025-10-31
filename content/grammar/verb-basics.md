@@ -55,7 +55,7 @@ Learn these first—they appear constantly and form other tenses.
 
 Example: *Ich bin nach Hause gegangen.* / *Ich habe Deutsch gelernt.*
 
-## Practice Prompts
+## Practice
 
 1. Conjugate five regular and five irregular verbs for all persons in the present tense.
 2. Build sentences with separable verbs in main and subordinate clauses to practise prefix placement.

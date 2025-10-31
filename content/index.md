@@ -18,7 +18,7 @@ features:
     details: Follow a curated path that builds from noun gender to complex sentence structures.
   - title: Real Explanations
     details: Understand the why behind each rule with clear English explanations and tables.
-  - title: Practice Prompts
+  - title: Practice
     details: Reinforce learning with quick tasks you can complete after every lesson.
 ---
 

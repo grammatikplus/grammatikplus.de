@@ -62,7 +62,7 @@ Replace prepositional phrases referring to things with *da-* combinations:
 
 When asking about things, use *wo-* combinations: *Worauf freust du dich?*
 
-## Practice Prompts
+## Practice
 
 1. Sort a list of 20 prepositions into accusative, dative, genitive, or two-way categories.
 2. Describe the layout of your home using two-way prepositions in both static and movement contexts.

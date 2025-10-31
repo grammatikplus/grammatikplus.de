@@ -61,7 +61,7 @@ For the dative row, remember **MRMN**: *dem, der, dem, den*. Add *-n* to plural 
 3. Choose the article or pronoun form from the case table.
 4. Apply adjective endings if needed (see the dedicated lesson).
 
-## Practice Prompts
+## Practice
 
 1. Rewrite three simple sentences, switching the roles of subject and object to practise nominative vs. accusative.
 2. Pair each dative-only verb (z. B. *helfen, danken, antworten*) with a logical indirect object.

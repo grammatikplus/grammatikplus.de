@@ -54,7 +54,7 @@ Modal verbs colour the meaning of a main verb by expressing ability, obligation,
   *Er hat gehen dürfen.*  
   *Ich hoffe, bald gehen zu können.*
 
-## Practice Prompts
+## Practice
 
 1. Express the same idea with different modals to explore nuance (e.g., obligation vs. suggestion).
 2. Create five subordinate clauses with modals to practise verb-final order.

@@ -68,7 +68,7 @@ Relative pronouns introduce dependent clauses and follow the definite article pa
 
 Remember the comma before relative clauses and place the conjugated verb at the end.
 
-## Practice Prompts
+## Practice
 
 1. Write mini-dialogues switching between *du* and formal *Sie* forms.
 2. Transform sentences with explicit nouns into ones using pronouns (e.g., *Der Lehrer erklärt den Schülern die Grammatik* → *Er erklärt ihnen die Grammatik*).

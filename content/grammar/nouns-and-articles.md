@@ -56,7 +56,7 @@ Irregular plurals exist—build a personalised list of new nouns with their plur
 - Days, months, and languages remain lowercase: *montags*, *deutsch*.
 - Formal address pronouns *Sie / Ihr* are capitalised.
 
-## Practice Prompts
+## Practice
 
 1. Categorise ten new nouns by gender and write their definite and indefinite forms.
 2. Transform five sentences from the nominative to the accusative and observe the article changes.

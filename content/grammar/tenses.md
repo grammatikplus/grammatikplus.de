@@ -52,7 +52,7 @@ German has six main tenses. Everyday conversation relies heavily on present, per
 - Indicates a completed action in the future or a conjecture about the past.
 - Example: *Bis nächstes Jahr werde ich B2 geschafft haben.*
 
-## Practice Prompts
+## Practice
 
 1. Write a short paragraph in the present tense, then convert it to the perfect tense.
 2. Tell a mini-story in the Präteritum using at least five irregular verbs.

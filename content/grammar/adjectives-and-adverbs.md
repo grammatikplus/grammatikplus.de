@@ -54,7 +54,7 @@ Use strong endings that fully mark gender and case: *roter Wein*, *kaltes Wasser
 - Use **sehr** (very) to intensify adjectives/adverbs; **viel** strengthens comparatives (*viel besser*).
 - Sentence adverbs (e.g., *leider, hoffentlich, wahrscheinlich*) usually sit near the beginning after the verb-second slot.
 
-## Practice Prompts
+## Practice
 
 1. Describe four people or objects using attributive adjectives in each case.
 2. Convert ten sentences from positive to comparative and superlative forms.

@@ -66,7 +66,7 @@ Common conjunctions:
 - In main clauses, the separable prefix moves to the end: *Ich rufe dich später an.*
 - In subordinate clauses, the prefix rejoins the verb: *..., weil ich dich später anrufe.*
 
-## Practice Prompts
+## Practice
 
 1. Take five simple sentences and front different elements to enforce the V2 rule.
 2. Combine pairs of sentences with subordinating conjunctions, paying attention to verb-final placement.

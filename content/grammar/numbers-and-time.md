@@ -56,7 +56,7 @@ Numbers and time expressions are essential for appointments, prices, and everyda
 - Decimal comma again: *€2,99* → *zwei Euro neunundneunzig*.
 - Use *Komma* for decimals, *und* or hyphen for compound measurement units: *1,5 Liter*, *ein Meter fünfundsiebzig*.
 
-## Practice Prompts
+## Practice
 
 1. Read a schedule aloud using both the 24-hour format and colloquial expressions.
 2. Convert five prices and phone numbers into spoken German.
